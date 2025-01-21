@@ -1,1 +1,1 @@
-# Ibm-Maximo
+# Frequently asked Database Configuration Questions in Maximo Interview.
