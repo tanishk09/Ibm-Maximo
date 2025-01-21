@@ -150,3 +150,74 @@ A **non-persistent attribute** is an attribute that does not have a correspondin
 
 ### Interview Answer Example:
 "In IBM Maximo, persistent attributes are stored permanently in the database and are part of the object’s table schema, such as `WORKORDER.WONUM`. Non-persistent attributes, on the other hand, are temporary and exist only during runtime for calculations or intermediate data, like a calculated field displayed in the UI. Non-persistent attributes help avoid database overhead for transient data while allowing flexibility in application logic."
+
+---
+
+### 5. What Are Indexes in IBM Maximo and How to Create it?
+
+Indexes in IBM Maximo are database structures that improve the performance of data retrieval operations by allowing faster access to records in a table. They are created on one or more columns of a table and act as pointers to the data.
+
+### Purpose of Indexes:
+1. **Improve Query Performance:**  
+   - Speeds up SELECT statements and WHERE clause conditions by reducing the time required to locate rows.
+2. **Maintain Data Integrity:**  
+   - Unique indexes prevent duplicate values in specified columns.
+3. **Optimize Relationships:**  
+   - Used in JOIN operations to enhance performance.
+
+### Types of Indexes in Maximo:
+1. **Primary Index:**  
+   - Created automatically for the primary key column of a table.
+2. **Unique Index:**  
+   - Ensures no duplicate values exist in the indexed column(s).
+3. **Non-Unique Index:**  
+   - Used for performance optimization without enforcing uniqueness.
+4. **Composite Index:**  
+   - Includes multiple columns in the index for complex queries.
+
+### Steps to Create an Index in IBM Maximo:
+
+1. **Access Database Configuration:**
+   - Navigate to **System Configuration** > **Platform Configuration** > **Database Configuration**.
+
+2. **Locate the Object:**
+   - Find and select the object (table) where the index is to be created.
+
+3. **Create the Index:**
+   - Go to the **Indexes** tab.
+   - Click on **New Row** to add a new index.
+   - Provide the following details:
+     - **Index Name:** A unique name for the index (e.g., `IDX_WO_STATUS`).
+     - **Description:** A meaningful description of the index.
+
+4. **Add Index Attributes:**
+   - In the **Index Attributes** section, click on **New Row**.
+   - Specify the attributes (columns) to be included in the index in the desired order.  
+     Example: To index the `STATUS` and `SITEID` columns, add them in the appropriate sequence.
+
+5. **Set Index Properties:**
+   - **Unique:** Check this box if the index should enforce uniqueness.
+   - **Index Type:** Leave it as default unless a specific type is required.
+
+6. **Save and Apply Changes:**
+   - Save the changes.
+   - From the **Select Action** menu, choose **Apply Configuration Changes** to implement the index in the database.
+
+7. **Verify the Index:**
+   - Use SQL tools or database management tools to verify that the index has been created successfully.
+
+### Best Practices for Creating Indexes:
+1. **Index Frequently Queried Columns:**  
+   - Create indexes for columns used in WHERE clauses, JOIN conditions, or ORDER BY statements.
+2. **Avoid Over-Indexing:**  
+   - Too many indexes can slow down INSERT, UPDATE, and DELETE operations.
+3. **Use Composite Indexes Wisely:**  
+   - Only create composite indexes for multi-column queries.
+4. **Test Performance:**  
+   - Evaluate query performance before and after creating an index.
+
+### Example Scenario:
+If work order queries frequently filter by status and site, you can create an index for the `STATUS` and `SITEID` columns on the `WORKORDER` table to improve query performance.
+
+### Interview Tip:
+"When explaining indexes, emphasize their role in improving query performance while balancing the overhead they introduce during write operations. Mention that indexes in Maximo are managed through the Database Configuration tool, and demonstrate an understanding of how to use them effectively for optimization."
