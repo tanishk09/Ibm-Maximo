@@ -1,4 +1,4 @@
-# Most Frequently Questions Asked in Maximo Interview for Database Configuration.
+### SET 1
 
 ### 1. What is database configuration in Maximo and what it will do?
 Database Configuration (DB Config) in IBM Maximo is a tool used to define and manage the data dictionary of the Maximo application. It allows administrators to modify the database schema without requiring direct interaction with the underlying database.
