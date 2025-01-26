@@ -6,6 +6,11 @@ https://www.ibm.com/docs/en/mam/7.6.0?topic=applications-rest-api
 ### Bruno
 https://bportaluri.com/2012/02/maximo-rest-apis-reference-material.html
 
+### IBM Maximo REST API Guide
+https://ibm-maximo-dev.github.io/maximo-restapi-documentation/query/selecting/
+
+https://www.ibm.com/support/pages/system/files/inline-files/Maximo_NextGen_REST_API_-_nextgen.pdf
+
 The Representational State Transfer (REST) application programming interface (API) provides a way for external applications to query and update application data in Tivoli®'s process automation engine.
 
 The REST API is part of the integration framework, and you can use it to integrate external applications with process automation engine applications. The REST API exposes business objects and integration object structures as REST resources. The REST API can provide resource data in either XML or JavaScript Object Notation (JSON) format. External applications can use the REST API to query and update application data.
