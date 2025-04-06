@@ -7,6 +7,8 @@ https://cdnapisec.kaltura.com/html5/html5lib/v2.101/mwEmbedFrame.php/p/1773841/u
 Maximo Monitor Node-RED CSV Importer Lab
 https://ibm.github.io/maximo-labs/monitor_nodered_csv_importer_1.0/
 https://ibm.github.io/maximo-labs/monitor_nodered_csv_importer_2.0/
+https://ibm.seismic.com/app?ContentId=b82e5de3-2b2f-4714-900d-13e5b51cc9c2#/doccenter/861ea1fd-99e0-44d7-9135-85412e5c28d1/doc/%252Fdd3359e5f7-a856-a91b-7688-41024b2ac637%252FdfNTY4NmVhOWItY2RkNS04ZWY3LTZkNzItZTQwZjczMWUyMjk1%252COthers%252FdfNDRmODBlMzMtY2ViMC0zMDI1LTVhNDEtNzg2OTg4MWVmZDBl%252COthers%252FdfOTRiYmU4NTQtNWY4NC03Y2QyLWZjYWUtOGIxYmFmZjkyZThk%252CPT0%253D%252CUHJvZHVjdC9Tb2x1dGlvbiBCcmllZiBvciBHdWlkZQ%253D%253D%252Flf6b9a60c1-9c65-463b-8efc-5c167248166b/grid/
+https://ibm.seismic.com/app?ContentId=75cd2d06-7b76-47d1-857f-4b46efdda27b#/doccenter/861ea1fd-99e0-44d7-9135-85412e5c28d1/doc/%252Fdd3359e5f7-a856-a91b-7688-41024b2ac637%252FdfNTY4NmVhOWItY2RkNS04ZWY3LTZkNzItZTQwZjczMWUyMjk1%252COthers%252FdfNDRmODBlMzMtY2ViMC0zMDI1LTVhNDEtNzg2OTg4MWVmZDBl%252COthers%252FdfOTRiYmU4NTQtNWY4NC03Y2QyLWZjYWUtOGIxYmFmZjkyZThk%252CPT0%253D%252CRGVtbw%253D%253D%252Flfbb5a59df-67c6-49bb-a919-eae7986412ac/grid/
 
 IBM Maximo Monitor Live Demo Asset Lab
 ► Create RPE device credentials in Maximo Application Suite (MAS) Monitor
@@ -15,3 +17,6 @@ IBM Maximo Monitor Live Demo Asset Lab
 ► Verify that data is delivered from the RPE devices to MAS Monitor
 
 https://ibm.github.io/maximo-labs/monitor_live_demo_asset/
+
+IBM Maximo Monitor Modbus Simulator Lab
+https://ibm.github.io/maximo-labs/monitor_modbus_simulator/
