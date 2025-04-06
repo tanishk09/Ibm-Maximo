@@ -1,4 +1,17 @@
 Maximo Monitor Links
-Welcome to the
+
 Maximo Monitor Edge Data Collector Lab
 https://ibm.github.io/maximo-labs/edc_8.11/release_notes/
+https://cdnapisec.kaltura.com/html5/html5lib/v2.101/mwEmbedFrame.php/p/1773841/uiconf_id/27941801/entry_id/1_tcitbyuw?wid=_1773841&iframeembed=true&entry_id=1_tcitbyuw
+
+Maximo Monitor Node-RED CSV Importer Lab
+https://ibm.github.io/maximo-labs/monitor_nodered_csv_importer_1.0/
+https://ibm.github.io/maximo-labs/monitor_nodered_csv_importer_2.0/
+
+IBM Maximo Monitor Live Demo Asset Lab
+► Create RPE device credentials in Maximo Application Suite (MAS) Monitor
+► Prepare a Raspberry Pi with a SenseHat
+► Convert the Raspberry Pi into an RPE asset
+► Verify that data is delivered from the RPE devices to MAS Monitor
+
+https://ibm.github.io/maximo-labs/monitor_live_demo_asset/
