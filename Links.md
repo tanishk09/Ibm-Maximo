@@ -1,11 +1,19 @@
-### Export and Import Users' Data in Maximo Application Suite
-🔗 Resource: https://www.ibm.com/support/pages/node/7258367
+# IBM Maximo Application Suite – Useful Resources
 
-### Downloade ERD using the API
-🔗 Resource: https://www.ibm.com/docs/en/masv-and-l/maximo-manage/cd?topic=utilities-downloading-entity-relationship-documents-erds
+## Export and Import Users' Data in Maximo Application Suite
+🔗 https://www.ibm.com/support/pages/node/7258367
 
-### How to use the Tools API with Maximo Manage
-🔗 Resource: https://www.ibm.com/support/pages/how-use-tools-api-maximo-manage
+---
 
-### Managing OSLC system properties in Maximo Manage 9.1
-🔗 Resource: https://www.ibm.com/support/pages/managing-oslc-system-properties-maximo-manage-91?view=full
+## Download ERD Using the API
+🔗 https://www.ibm.com/docs/en/masv-and-l/maximo-manage/cd?topic=utilities-downloading-entity-relationship-documents-erds
+
+---
+
+## How to Use the Tools API with Maximo Manage
+🔗 https://www.ibm.com/support/pages/how-use-tools-api-maximo-manage
+
+---
+
+## Managing OSLC System Properties in Maximo Manage 9.1
+🔗 https://www.ibm.com/support/pages/managing-oslc-system-properties-maximo-manage-91?view=full
