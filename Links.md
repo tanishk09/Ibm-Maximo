@@ -6,3 +6,6 @@
 
 ### How to use the Tools API with Maximo Manage
 🔗 Resource: https://www.ibm.com/support/pages/how-use-tools-api-maximo-manage
+
+### Managing OSLC system properties in Maximo Manage 9.1
+🔗 Resource: https://www.ibm.com/support/pages/managing-oslc-system-properties-maximo-manage-91?view=full
