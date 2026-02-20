@@ -17,3 +17,8 @@
 
 ## Managing OSLC System Properties in Maximo Manage 9.1
 🔗 https://www.ibm.com/support/pages/managing-oslc-system-properties-maximo-manage-91?view=full
+
+---
+
+## How to configure Object Structure Security
+🔗 https://www.ibm.com/support/pages/how-configure-object-structure-security
