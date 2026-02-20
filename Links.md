@@ -22,3 +22,8 @@
 
 ## How to configure Object Structure Security
 🔗 https://www.ibm.com/support/pages/how-configure-object-structure-security
+
+---
+
+## Resolving Integrity Checker Error BMXAA6286E
+🔗 https://www.ibm.com/support/pages/node/7259530?myns=swgother&mynp=OCSSLKT6&mynp=OCSSWT9A&mynp=OCSSRHPA&mync=F&cm_sp=swgother-_-OCSSLKT6-OCSSWT9A-OCSSRHPA-_-F
